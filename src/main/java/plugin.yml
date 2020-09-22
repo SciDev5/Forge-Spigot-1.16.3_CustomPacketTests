@@ -1,0 +1,4 @@
+name: ForgePacketTesting
+version: 1.0
+main: me.scidev5.forgePacketTesting.Plugin
+api-version: 1.16
